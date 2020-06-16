@@ -1,3 +1,5 @@
+# 致谢
+[@amberOoO](https://github.com/amberOoO)
 # video2ppt
 capture the image of the video and generate pptx file.
 
